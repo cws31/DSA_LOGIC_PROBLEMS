@@ -8,3 +8,5 @@ TREE
 //gredy problems
 322. coin change
 
+solve (QN.-1(time and work))
+
