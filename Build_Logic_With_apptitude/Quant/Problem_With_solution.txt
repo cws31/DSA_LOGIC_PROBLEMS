@@ -1,4 +1,4 @@
-Q.(time and work)
+Q.1 (time and work)
  Ananya alone can complete a coding assignment in 18 days, while Bharat alone can complete it in 27 days.
  They work in a repeated 3-day cycle: Ananya works alone on the first two days,
  and Bharat works alone on the third day. The whole assignment will be completed in ________ days.
