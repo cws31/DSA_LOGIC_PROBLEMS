@@ -7,6 +7,7 @@ public class SameTree {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(p);
+
         queue.add(q);
         while (!queue.isEmpty()) {
             TreeNode first = queue.poll();
