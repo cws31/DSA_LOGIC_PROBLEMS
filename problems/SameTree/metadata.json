@@ -1,0 +1,24 @@
+{
+  "id": "SameTree",
+  "title": "Same Tree",
+  "difficulty": "Easy",
+  "topic": "Tree",
+  "methodName": "isSameTree",
+  "returnType": "boolean",
+  "argumentTypes": ["TreeNode", "TreeNode"],
+  "description": "Given the roots of two binary trees, determine whether both trees are structurally identical and every matching node has the same value.",
+  "constraints": [
+    "The number of nodes in both trees is in the range 0 to 100.",
+    "-10^4 <= Node.val <= 10^4"
+  ],
+  "examples": [
+    {
+      "input": "p = [1,2,3], q = [1,2,3]",
+      "output": "true"
+    },
+    {
+      "input": "p = [1,2], q = [1,null,2]",
+      "output": "false"
+    }
+  ]
+}

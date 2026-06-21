@@ -1,0 +1,20 @@
+{
+  "id": "TimeAndWorkCycle",
+  "title": "Time and Work Cycle",
+  "difficulty": "Easy",
+  "topic": "Aptitude",
+  "methodName": "completionDays",
+  "returnType": "double",
+  "argumentTypes": [],
+  "description": "Ananya completes a coding assignment in 18 days and Bharat completes it in 27 days. They work in a repeating 3-day cycle where Ananya works on days 1 and 2, and Bharat works on day 3. Find the completion time.",
+  "constraints": [
+    "Use exact work rates.",
+    "The final day may be partial."
+  ],
+  "examples": [
+    {
+      "input": "Ananya rate = 1/18, Bharat rate = 1/27",
+      "output": "20.0"
+    }
+  ]
+}

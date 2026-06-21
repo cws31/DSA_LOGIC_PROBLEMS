@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Local execution/compilation workspace
+workspace/
+Build_Logic_With_apptitude/
+.agents/
+
+# User data, submissions and progress tracking (optional/local state)
+user_data/
+submissions/
+progress.json
+
+# Environment variables
+.env
+.env.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Agent directories
+.agents/
